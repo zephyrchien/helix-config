@@ -1,0 +1,10 @@
+[language-server.clangd]
+command = "clangd"
+args = ["--header-insertion=never"]
+
+[use-grammars]
+only = [
+  "c", "cpp", "d", "rust", "zig", "go",
+  "python", "javascript", "lua", "bash",
+  "json", "toml", "yaml", "make", "cmake"
+]

@@ -1,0 +1,9 @@
+[editor]
+mouse = false
+auto-format = false
+bufferline = "multiple"
+text-width = 120
+
+[editor.cursor-shape]
+insert = "bar"
+
