@@ -8,3 +8,11 @@ only = [
   "python", "javascript", "lua", "bash",
   "json", "toml", "yaml", "make", "cmake"
 ]
+
+[[language]]
+name = "c"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "cpp"
+indent = { tab-width = 4, unit = "    " }

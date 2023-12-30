@@ -1,3 +1,5 @@
+theme = "home"
+
 [editor]
 mouse = false
 auto-format = false
